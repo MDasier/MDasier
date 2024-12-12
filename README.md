@@ -5,25 +5,23 @@ Soy un **desarrollador full stack** apasionado por la tecnología y el desarroll
 Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
 
 ## 🚀 Tecnologías principales:
-- **Favs**: JavaScript (ES6+), HTML5, CSS3
-- **Frontend**: React, Angular, Bootstrap, MUI, Axios
-- **Backend**: Node.js, Express, RESTful APIs
-- **Bases de datos**: MongoDB, MySQL
-- **Herramientas**: Git, Vite, Docker, Webpack, Jasmine
+- **Lenguajes**: JavaScript (ES6) | Java | TypeScript | C# | Python
+- **Frontend**: React | Angular | HTML5 | CSS3 | Bootstrap | MUI | Tailwind
+- **Backend**: NodeJS | ExpressJS | SpringBoot
+- **DB**: Mongo | SQL | MySQL
+- **DevOps**: Git | Github | Jenkins | Postman
+- **UI/UX**: Figma | Excalidraw | Photoshop
 
 
 ## 🎮 Proyecto actual:
-Actualmente, estoy desarrollando un videojuego utilizando **Phaser**, un framework especializado en la creación de juegos 2D. Este proyecto me permite explorar nuevas áreas de desarrollo, como la programación de físicas, la gestión de gráficos y el diseño de experiencias interactivas.
-Busco crear un plataformas divertido y frenético para que todo el mundo pueda disfrutar de pequeños ratos de juego y así despejar la mente durante unos minutos.
-[Temporize](https://github.com/MDasier/Temporize)
-
+Actualmente, estoy colaborando en el desarrollo de herramientas de automatización de eventos en Discord y relacionando IAs a las mismas. (Guildswarm)
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:
 - **Phaser** para el desarrollo de videojuegos.
 - **TypeScript** para mejorar la robustez de mis proyectos.
 - **Angular** permite construir aplicaciones de una sola página (SPA) con un enfoque basado en MVC (Model-View-Controller).
-- **CI/CD** para automatizar procesos y mejorar el flujo de desarrollo.
+- **C# y Python** para el backend de las herramientas del proyecto de Guildswarm relacionadas con Discord e IAs.
 
 
 ## 📫 ¿Cómo contactarme?

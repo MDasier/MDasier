@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Asier!
 
-Soy un **desarrollador full stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo amplia experiencia trabajando con **JavaScript** y **HTML5**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
+Soy un **desarrollador full stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo amplia experiencia trabajando con **JavaScript/TypeScript**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
 Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
 
 ## 🚀 Tecnologías principales:

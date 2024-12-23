@@ -15,6 +15,7 @@ Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejor
 
 ## 🎮 Proyecto actual:
 Actualmente, estoy colaborando en el desarrollo de herramientas de automatización de eventos en Discord y relacionando IAs a las mismas. (Guildswarm)
+También estoy desarrollando un bot de Telegram con Cohere integrado, como asistente de cocina. (Sukaldari_bot)
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:

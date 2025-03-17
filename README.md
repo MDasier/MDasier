@@ -3,19 +3,21 @@
 
 Soy un **desarrollador full stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo amplia experiencia trabajando con **JavaScript/TypeScript**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
 Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
+Actualmente, trabajo con PHP/SQL en [Gurenet Teknologia SL](https://www.gurenet.es/)
+
 
 ## 🚀 Tecnologías principales:
-- **Lenguajes**: JavaScript (ES6) | Java | TypeScript | C# | Python
-- **Frontend**: React | Angular | HTML5 | CSS3 | Bootstrap | MUI | Tailwind
-- **Backend**: NodeJS | ExpressJS | SpringBoot
-- **DB**: Mongo | SQL | MySQL
-- **DevOps**: Git | Github | Jenkins | Postman
+- **Lenguajes**: JS(ES6) | PHP | Python
+- **Frontend**: React | HTML5 | CSS3 | Bootstrap | MUI
+- **Backend**: Node.js | Express.js
+- **Base de datos**: Mongo | SQL 
+- **DevOps**: Git/Github | Postman | Filezilla
 - **UI/UX**: Figma | Excalidraw | Photoshop
 
 
 ## 🎮 Proyecto actual:
-Actualmente, estoy colaborando en el desarrollo de herramientas de automatización de eventos en Discord y relacionando IAs a las mismas. (Guildswarm)
-También estoy desarrollando un bot de Telegram con Cohere integrado, como asistente de cocina. (Sukaldari_bot)
+En Gurenet, trabajamos en la creación de aplicaciones personalizadas, desarrolladas según las especificaciones de nuestros clientes.
+
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:
@@ -44,6 +46,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

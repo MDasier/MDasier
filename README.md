@@ -1,30 +1,23 @@
 
 # ¡Hola! 👋 Soy Asier!
 
-Soy un **desarrollador full stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo amplia experiencia trabajando con **JavaScript/TypeScript**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
+Soy un **desarrollador backend** apasionado por la tecnología y el desarrollo de soluciones innovadoras aunque tengo experiencia trabajando con **JavaScript/TypeScript**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
 Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
-Actualmente, trabajo con PHP/SQL en [Gurenet Teknologia SL](https://www.gurenet.es/)
+Actualmente, trabajo con Modern PHP, Python y MySQL en [Gurenet Teknologia SL](https://www.gurenet.es/)
 
 
 ## 🚀 Tecnologías principales:
-- **Lenguajes**: JS(ES6) | PHP | Python
-- **Frontend**: React | HTML5 | CSS3 | Bootstrap | MUI
-- **Backend**: Node.js | Express.js
-- **Base de datos**: Mongo | SQL 
-- **DevOps**: Git/Github | Postman | Filezilla
+- **Lenguajes**: PHP | Python | Node 
+- **Frontend/Frameworks**: React | HTML5 | CSS3 | Bootstrap | MUI
+- **DB**: Mongo | SQL 
+- **DevOps/Tools**: Git/Github | Postman | Filezilla
 - **UI/UX**: Figma | Excalidraw | Photoshop
-
-
-## 🎮 Proyecto actual:
-En Gurenet, trabajamos en la creación de aplicaciones personalizadas, desarrolladas según las especificaciones de nuestros clientes.
 
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:
-- **Phaser** para el desarrollo de videojuegos.
-- **TypeScript** para mejorar la robustez de mis proyectos.
-- **Angular** permite construir aplicaciones de una sola página (SPA) con un enfoque basado en MVC (Model-View-Controller).
-- **C# y Python** para el backend de las herramientas del proyecto de Guildswarm relacionadas con Discord e IAs.
+- **Phaser** para el desarrollo de videojuegos (una de mis pasiones).
+- **C# y Rust** para el backend de las herramientas del proyecto de Guildswarm relacionadas con Discord e IAs.
 
 
 ## 📫 ¿Cómo contactarme?

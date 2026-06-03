@@ -1,8 +1,8 @@
 
 # ¡Hola! 👋 Soy Asier!
 
-Soy un **desarrollador backend** apasionado por la tecnología y el desarrollo de soluciones innovadoras aunque tengo experiencia trabajando con **JavaScript/TypeScript**, tanto en el desarrollo frontend como backend, lo que me permite crear aplicaciones web completas y eficientes.
-Me encanta aprender nuevas tecnologías y siempre estoy en la búsqueda de mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
+Soy un **desarrollador backend** con pasión por la tecnología y experiencia en la creación de aplicaciones web dinámicas y escalables, comprometido con la mejora constante, el aprendizaje continuo y la resolución de problemas. Me considero autodidacta, escucho a los que me rodean y soy muy trabajador.
+Asimilo conceptos nuevos rápidamente y me encanta aprender nuevas tecnologías. Siempre intento mejorar mis habilidades para mantenerme al día con las últimas tendencias del desarrollo web. Mi enfoque es construir productos que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario excelente.
 Actualmente, trabajo con Modern PHP, Python y MySQL en [Gurenet Teknologia SL](https://www.gurenet.es/)
 
 
@@ -16,8 +16,8 @@ Actualmente, trabajo con Modern PHP, Python y MySQL en [Gurenet Teknologia SL](h
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:
-- **WebSocket** para el control de conexión abierta. (Chats, Juegos multijugador...).
-- **C#** iniciación y conceptos básicos.
+- **WebSocket** para el control de conexión abierta. [ Chats, Juegos multijugador(Ship Commander)...].
+- **TypeScript** para hacer más robustas las aplicaciones en las que normalmente usaría JS. Por ejemplo en la intranet de la empresa.
 - **Phaser3** más videojuegos 2D.
 
 

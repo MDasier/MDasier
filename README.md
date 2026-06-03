@@ -16,7 +16,7 @@ Actualmente, trabajo con Modern PHP, Python y MySQL en [Gurenet Teknologia SL](h
 
 ## 🌱 Siempre aprendiendo:
 Estoy continuamente buscando aprender y dominar nuevas tecnologías. Recientemente, he estado explorando:
-- **WebSocket** para el control de conexión abiertas. (Chats, Juegos multijugador...).
+- **WebSocket** para el control de conexión abierta. (Chats, Juegos multijugador...).
 - **C#** iniciación y conceptos básicos.
 - **Phaser3** más videojuegos 2D.
 
